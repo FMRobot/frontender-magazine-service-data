@@ -8,10 +8,10 @@
   "reponame":"MindBEMding",
   "original_publish_date":"2013-01-27T12:20Z",
   "magazine_publish_date":"2013-03-01T00:00Z",
-  "contributors":[
-      "csswizardry",
-      "matmuchrapna"
-    ],
+  "contributors":{
+      "csswizardry":"Автор",
+      "mustangostang":"Переводчик"
+    },
   "likes":[],
   "translations":[],
   "booked":"matmuchrapna",
