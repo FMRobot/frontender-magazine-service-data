@@ -2,7 +2,6 @@
 {
   "csswizardry":{
     "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
-    "role":"Автор",
     "name":"Harry Roberts",
     "about":"Hi there, I’m Harry. I am a 22 year old designer, developer, writer and speaker from the UK; I work as a Senior UI Developer for BSkyB. I write, tweet, speak and share code about authoring and scaling CSS for big websites.",
     "contacts":{
@@ -14,7 +13,6 @@
   },
   "mustangostang":{
     "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
-    "role":"Переводчик",
     "name":"Vlad Andersen",
     "about":"",
     "contacts":{
@@ -27,7 +25,6 @@
   },
   "matmuchrapna":{
     "img":"https://secure.gravatar.com/avatar/8461f7a24f7814e3453e9996182d98d7?s=160",
-    "role":"Переводчик",
     "name":"Владимир Старков",
     "about":"Меня зовут Владимир Старков. Я стараюсь cделать мир лучше. Мне можно написать в твиттер или прямо на почту",
     "contacts":{
@@ -40,7 +37,6 @@
   },
   "natalief":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
-    "role":"Переводчик",
     "name":"Наталья Луканюк",
     "about":"",
     "contacts":{
@@ -53,7 +49,6 @@
   },
   "silentimp":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
-    "role":"Переводчик",
     "name":"Антон Немцев",
     "about":"",
     "contacts":{

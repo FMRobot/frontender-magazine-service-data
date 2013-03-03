@@ -27,10 +27,10 @@
   "reponame":"when-using-ids-can-be-a-pain-in-the-class",
   "original_publish_date":"2011-09-01T00:00Z",
   "magazine_publish_date":"2013-03-05T00:00Z",
-  "contributors":[
-      "csswizardry",
-      "mustangostang"
-    ],
+  "contributors":{
+      "csswizardry":"Автор",
+      "mustangostang":"Переводчик"
+    },
   "likes":[],
   "translations":[],
   "booked":"mustangostang",
