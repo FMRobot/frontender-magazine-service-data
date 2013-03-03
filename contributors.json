@@ -4,58 +4,120 @@
     "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
     "name":"Harry Roberts",
     "about":"Hi there, I’m Harry. I am a 22 year old designer, developer, writer and speaker from the UK; I work as a Senior UI Developer for BSkyB. I write, tweet, speak and share code about authoring and scaling CSS for big websites.",
+    "url":"http://csswizardry.com/",
     "contacts":{
-      "url":"http://csswizardry.com/about/",
-      "twitter":"@csswizardry",
-      "github_url":"https://github.com/csswizardry",
-      "github_login":"csswizardry"
+      "Сaйт":{
+        "title":"http://csswizardry.com/",
+        "url":"http://csswizardry.com/"
+      },
+      "Twitter":{
+        "title":"@csswizardry",
+        "url":"https://twitter.com/csswizardry"
+      },
+      "Github":{
+        "title":"csswizardry",
+        "link":"https://github.com/csswizardry"
+      }
     }
   },
   "mustangostang":{
     "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
     "name":"Vlad Andersen",
     "about":"",
+    "url":"https://twitter.com/mustangostang",
     "contacts":{
-      "url":"http://mustangostang.livejournal.com/",
-      "twitter":"@mustangostang",
-      "email":"vlad.andersen@gmail.com",
-      "github_url":"https://github.com/mustangostang",
-      "github_login":"mustangostang"
+      "LiveJournal":{
+        "title":"http://mustangostang.livejournal.com/",
+        "url":"http://mustangostang.livejournal.com/"
+      },
+      "Twitter":{
+        "title":"@mustangostang",
+        "url":"https://twitter.com/mustangostang"
+      },
+      "Email":{
+        "title":"vlad.andersen@gmail.com",
+        "link":"mailto:vlad.andersen@gmail.com"
+      },
+      "Github":{
+        "title":"mustangostang",
+        "link":"https://github.com/mustangostang"
+      }
     }
   },
   "matmuchrapna":{
     "img":"https://secure.gravatar.com/avatar/8461f7a24f7814e3453e9996182d98d7?s=160",
     "name":"Владимир Старков",
     "about":"Меня зовут Владимир Старков. Я стараюсь cделать мир лучше. Мне можно написать в твиттер или прямо на почту",
+    "url":"http://vstarkov.ru/about/",
     "contacts":{
-      "url":"http://vstarkov.ru/about/",
-      "twitter":"@matmuchrapna",
-      "email":"matmuchrapna@gmail.com",
-      "github_url":"https://github.com/matmuchrapna",
-      "github_login":"matmuchrapna"
+      "Сaйт":{
+        "title":"http://vstarkov.ru/",
+        "url":"http://vstarkov.ru/about/"
+      },
+      "Twitter":{
+        "title":"@matmuchrapna",
+        "url":"https://twitter.com/matmuchrapna"
+      },
+      "Email":{
+        "title":"matmuchrapna@gmail.com",
+        "link":"mailto:matmuchrapna@gmail.com"
+      },
+      "Github":{
+        "title":"mustangostang",
+        "link":"https://github.com/mustangostang"
+      }
     }
   },
   "natalief":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
     "name":"Наталья Луканюк",
     "about":"",
+    "url":"http://flamecoder.net/",
     "contacts":{
-      "url":"http://flamecoder.net/",
-      "url":"http://vk.com/natatik_l",
-      "twitter":"@very_busy_girl",
-      "github_url":"https://github.com/NatalieF",
-      "github_login":"NatalieF"
+      "Сaйт":{
+        "title":"http://flamecoder.net/",
+        "url":"http://flamecoder.net/"
+      },
+      "вКонтакте":{
+        "title":"natatik_l",
+        "url":"http://vk.com/natatik_l"
+      },
+      "Twitter":{
+        "title":"@very_busy_girl",
+        "url":"https://twitter.com/very_busy_girl"
+      },
+      "GitHub":{
+        "title":"NatalieF",
+        "link":"https://github.com/NatalieF"
+      }
     }
   },
   "silentimp":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
     "name":"Антон Немцев",
     "about":"",
+    "url":"https://twitter.com/silentimp",
     "contacts":{
-      "url":"http://frontender.info/",
-      "twitter":"@silentimp",
-      "github_url":"https://github.com/SilentImp",
-      "github_login":"SilentImp"
+      "Сaйт":{
+        "title":"http://frontender.info/",
+        "url":"http://frontender.info/"
+      },
+      "Twitter":{
+        "title":"@silentimp",
+        "url":"https://twitter.com/silentimp"
+      },
+      "GitHub":{
+        "title":"SilentImp",
+        "url":"https://github.com/SilentImp"
+      },
+      "Skype":{
+        "title":"ravencry",
+        "url":"skype:ravencry?call"
+      },
+      "Тел.":{
+        "title":"+38 (063) 065-72-65",
+        "url":"tel:+380630657265"
+      }
     }
   }
 }
