@@ -16,7 +16,7 @@
       },
       "Github":{
         "title":"csswizardry",
-        "link":"https://github.com/csswizardry"
+        "url":"https://github.com/csswizardry"
       }
     }
   },
@@ -36,11 +36,11 @@
       },
       "Email":{
         "title":"vlad.andersen@gmail.com",
-        "link":"mailto:vlad.andersen@gmail.com"
+        "url":"mailto:vlad.andersen@gmail.com"
       },
       "Github":{
         "title":"mustangostang",
-        "link":"https://github.com/mustangostang"
+        "url":"https://github.com/mustangostang"
       }
     }
   },
@@ -60,11 +60,11 @@
       },
       "Email":{
         "title":"matmuchrapna@gmail.com",
-        "link":"mailto:matmuchrapna@gmail.com"
+        "url":"mailto:matmuchrapna@gmail.com"
       },
       "Github":{
-        "title":"mustangostang",
-        "link":"https://github.com/mustangostang"
+        "title":"matmuchrapna",
+        "url":"https://github.com/matmuchrapna"
       }
     }
   },
@@ -88,7 +88,7 @@
       },
       "GitHub":{
         "title":"NatalieF",
-        "link":"https://github.com/NatalieF"
+        "url":"https://github.com/NatalieF"
       }
     }
   },
