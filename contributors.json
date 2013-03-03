@@ -1,0 +1,66 @@
+
+{
+  "csswizardry":{
+    "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
+    "role":"Автор",
+    "name":"Harry Roberts",
+    "about":"Hi there, I’m Harry. I am a 22 year old designer, developer, writer and speaker from the UK; I work as a Senior UI Developer for BSkyB. I write, tweet, speak and share code about authoring and scaling CSS for big websites.",
+    "contacts":{
+      "url":"http://csswizardry.com/about/",
+      "twitter":"@csswizardry",
+      "github_url":"https://github.com/csswizardry",
+      "github_login":"csswizardry"
+    }
+  },
+  "mustangostang":{
+    "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
+    "role":"Переводчик",
+    "name":"Vlad Andersen",
+    "about":"",
+    "contacts":{
+      "url":"http://mustangostang.livejournal.com/",
+      "twitter":"@mustangostang",
+      "email":"vlad.andersen@gmail.com",
+      "github_url":"https://github.com/mustangostang",
+      "github_login":"mustangostang"
+    }
+  },
+  "matmuchrapna":{
+    "img":"https://secure.gravatar.com/avatar/8461f7a24f7814e3453e9996182d98d7?s=160",
+    "role":"Переводчик",
+    "name":"Владимир Старков",
+    "about":"Меня зовут Владимир Старков. Я стараюсь cделать мир лучше. Мне можно написать в твиттер или прямо на почту",
+    "contacts":{
+      "url":"http://vstarkov.ru/about/",
+      "twitter":"@matmuchrapna",
+      "email":"matmuchrapna@gmail.com",
+      "github_url":"https://github.com/matmuchrapna",
+      "github_login":"matmuchrapna"
+    }
+  },
+  "natalief":{
+    "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
+    "role":"Переводчик",
+    "name":"Наталья Луканюк",
+    "about":"",
+    "contacts":{
+      "url":"http://flamecoder.net/",
+      "url":"http://vk.com/natatik_l",
+      "twitter":"@very_busy_girl",
+      "github_url":"https://github.com/NatalieF",
+      "github_login":"NatalieF"
+    }
+  },
+  "silentimp":{
+    "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
+    "role":"Переводчик",
+    "name":"Антон Немцев",
+    "about":"",
+    "contacts":{
+      "url":"http://frontender.info/",
+      "twitter":"@silentimp",
+      "github_url":"https://github.com/SilentImp",
+      "github_login":"SilentImp"
+    }
+  }
+}
