@@ -1,4 +1,25 @@
 {
+"3454a2cdc27a1563bdc3ebe2eeae817d":{
+  "type":"Перевод",
+  "rus":"Дизайн, учитывающий окружающий мир, с помощью Device API",
+  "eng":"Environmental Design with the Device API",
+  "url":"http://alistapart.com/article/environmental-design-with-the-device-api",
+  "domain":"alistapart.com",
+  "reponame":"environmental-design-with-the-device-api",
+  "original_publish_date":"2013-03-05T12:20Z",
+  "magazine_publish_date":"2013-02-12T00:00Z",
+  "contributors":{
+      "timwright12":"Автор",
+      "mustangostang":"Переводчик"
+    },
+  "likes":[],
+  "translations":[
+    "http://frontender.info/environmental-design-with-the-device-api/"
+    ],
+  "booked":"mustangostang",
+  "approved":"silentimp",
+  "ready":true
+  },
 "a9a97f62809abc53b0d0b5a70c41f560":{
   "type":"Перевод",
   "rus":"Погружение в БЭМ — Понимание БЭМ синтаксиса",
@@ -13,7 +34,9 @@
       "matmuchrapna":"Переводчик"
     },
   "likes":[],
-  "translations":[],
+  "translations":[
+    "http://frontender.info/MindBEMding/"
+    ],
   "booked":"matmuchrapna",
   "approved":"silentimp",
   "ready":true
@@ -32,7 +55,9 @@
       "matmuchrapna":"Переводчик"
     },
   "likes":[],
-  "translations":[],
+  "translations":[
+    "http://frontender.info/when-using-ids-can-be-a-pain-in-the-class/"
+    ],
   "booked":"mustangostang",
   "approved":"silentimp",
   "ready":true

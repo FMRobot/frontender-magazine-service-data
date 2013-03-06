@@ -1,5 +1,21 @@
 
 {
+  "timwright12":{
+    "img":"http://d.alistapart.com/_made/pix/authors/uploads/photo_129072_120_120_c1.jpg",
+    "name":"Tim Wright",
+    "about":"Tim Wright is the senior user experience designer and developer at Fresh Tilled Soil, a UX design agency out of Boston. He is a frequent speaker, blogger, and writer, and a published author. He also recently wrote a book, Learning JavaScript—A Hands-On Guide to the Fundamentals of Modern JavaScript.",
+    "url":"http://www.csskarma.com/",
+    "contacts":{
+      "Сaйт":{
+        "title":"http://www.csskarma.com/",
+        "url":"http://www.csskarma.com/"
+      },
+      "Twitter":{
+        "title":"@csskarma",
+        "url":"https://twitter.com/csskarma"
+      }
+    }
+  },
   "csswizardry":{
     "img":"https://secure.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?s=160",
     "name":"Harry Roberts",
