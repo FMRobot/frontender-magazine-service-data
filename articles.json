@@ -18,7 +18,8 @@
     },
   "booked":"mustangostang",
   "approved":"silentimp",
-  "ready":true
+  "ready":true,
+  "hash":"3454a2cdc27a1563bdc3ebe2eeae817d"
   },
 "a9a97f62809abc53b0d0b5a70c41f560":{
   "type":"Перевод",
@@ -39,7 +40,8 @@
     },
   "booked":"matmuchrapna",
   "approved":"silentimp",
-  "ready":true
+  "ready":true,
+  "hash":"a9a97f62809abc53b0d0b5a70c41f560"
   },
 "ef1684340765c7f47d4b7ddd621acd37":{
   "type":"Перевод",
@@ -60,6 +62,7 @@
     },
   "booked":"mustangostang",
   "approved":"silentimp",
-  "ready":true
+  "ready":true,
+  "hash":"ef1684340765c7f47d4b7ddd621acd37"
   }
 }
