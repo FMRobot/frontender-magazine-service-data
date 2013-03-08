@@ -13,10 +13,16 @@
       "mustangostang":"Переводчик"
     },
   "likes":[],
-  "translations":{
-    "http://frontender.info/environmental-design-with-the-device-api/":[]
-    },
+  "translations":[
+      {
+        "title":"Дизайн с Device API, учитывающий окружающую среду",
+        "url":"http://frontender.info/environmental-design-with-the-device-api/",
+        "domain":"frontender.info",
+        "likes":[]
+      }
+    ],
   "booked":"mustangostang",
+  "addby":"silentimp",
   "approved":"silentimp",
   "ready":true,
   "hash":"3454a2cdc27a1563bdc3ebe2eeae817d"
@@ -35,13 +41,20 @@
       "matmuchrapna":"Переводчик"
     },
   "likes":[],
-  "translations":{
-    "http://frontender.info/MindBEMding/":[]
-    },
+  "translations":[
+      {
+        "title":"Головокружительное погружение в БЭМ",
+        "url":"http://frontender.info/MindBEMding/",
+        "domain":"frontender.info",
+        "likes":[]
+      }
+    ],
   "booked":"matmuchrapna",
+  "addby":"silentimp",
   "approved":"silentimp",
   "ready":true,
-  "hash":"a9a97f62809abc53b0d0b5a70c41f560"
+  "hash":"a9a97f62809abc53b0d0b5a70c41f560",
+  "comitter":""
   },
 "ef1684340765c7f47d4b7ddd621acd37":{
   "type":"Перевод",
@@ -57,10 +70,16 @@
       "matmuchrapna":"Переводчик"
     },
   "likes":[],
-  "translations":{
-    "http://frontender.info/when-using-ids-can-be-a-pain-in-the-class/":[]
-    },
+  "translations":[
+      {
+        "title":"Когда ID становятся болью в…",
+        "url":"http://frontender.info/when-using-ids-can-be-a-pain-in-the-class/",
+        "domain":"frontender.info",
+        "likes":[]
+      }
+    ],
   "booked":"matmuchrapna",
+  "addby":"silentimp",
   "approved":"silentimp",
   "ready":true,
   "hash":"ef1684340765c7f47d4b7ddd621acd37"
