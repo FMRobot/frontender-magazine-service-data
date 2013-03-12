@@ -2009,8 +2009,8 @@
         "original_publish_date": "2013-02-12",
         "magazine_publish_date": "2013-03-12",
         "contributors": {
-            "Автор":"mullican",
-            "Перевод":"natalief"
+            "mullican":"Aвтор",
+            "natalief":"Переводчик"
         },
         "translations": [],
         "booked": "natalief",
