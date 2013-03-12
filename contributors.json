@@ -1,5 +1,25 @@
 
 {
+  "mullican":{
+    "img":"http://d.alistapart.com/_made/pix/authors/uploads/photo_123688_120_120_c1.jpg",
+    "name":"Lyle Mullican",
+    "about":"Lyle Mullican is a web solutions architect at Mayo Clinic in Rochester, Minnesota, where he builds web applications for laboratory professionals. You can find him on the usual social networks. Previously, Lyle managed the operations of a web development consultancy. He has two small children and occasionally produces fine art. All views expressed are, of course, the author’s own.",
+    "url":"http://alistapart.com/author/lylemullican",
+    "contacts":{
+      "Сaйт":{
+        "title":"http://www.lylemullican.com/",
+        "url":"http://www.lylemullican.com/"
+      },
+      "LinkedIn":{
+        "title":"mullican",
+        "url":"www.linkedin.com/in/mullican"
+        },
+      "Twitter":{
+        "title":"@mullican",
+        "url":"https://twitter.com/mullican"
+      }
+    }
+  },
   "timwright12":{
     "img":"http://d.alistapart.com/_made/pix/authors/uploads/photo_129072_120_120_c1.jpg",
     "name":"Tim Wright",
