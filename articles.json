@@ -162,7 +162,8 @@
             "askd",
             "CyberAP",
             "KidsKilla",
-            "zaebee"
+            "zaebee",
+            "paraboom"
         ],
         "approved": "FMRobot",
         "addby": "FMRobot",
@@ -2002,14 +2003,14 @@
         "type": "Перевод",
         "eng": "Your Website has Two Faces",
         "rus": "Два лица вашего сайта",
-        "reponame":"your-website-has-two-faces",
+        "reponame": "your-website-has-two-faces",
         "url": "http://alistapart.com/article/your-website-has-two-faces",
         "domain": "alistapart.com",
         "original_publish_date": "2013-02-12",
         "magazine_publish_date": "2013-03-12",
         "contributors": [
-          "mullican",
-          "natalief"
+            "mullican",
+            "natalief"
         ],
         "translations": [],
         "booked": "natalief",
