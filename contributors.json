@@ -1,10 +1,35 @@
-
 {
+  "gabrieleromanato":{
+    "img":"http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1a3/31c/3063a46.jpg",
+    "name":"Gabriele Romanato",
+    "about":"Gabriele Romanato is a web developer. Contributor of the W3C CSS Test Suite, he is also skilled with jQuery and WordPress.",
+    "url":"http://gabrieleromanato.name/",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://gabrieleromanato.name/",
+        "url":"http://gabrieleromanato.name/"
+      },
+      "LinkedIn":{
+        "title":"gabrieleromanato",
+        "url":"http://www.linkedin.com/in/gabrieleromanato"
+      },
+      "Twitter":{
+        "title":"@gabromanato",
+        "url":"https://twitter.com/gabromanato/"
+      },
+      "Facebook":{
+        "title":"gabrieleromanatopage",
+        "url":"http://www.facebook.com/gabrieleromanatopage"
+      }
+    }
+  },
   "mullican":{
     "img":"http://d.alistapart.com/_made/pix/authors/uploads/photo_123688_120_120_c1.jpg",
     "name":"Lyle Mullican",
     "about":"Lyle Mullican is a web solutions architect at Mayo Clinic in Rochester, Minnesota, where he builds web applications for laboratory professionals. You can find him on the usual social networks. Previously, Lyle managed the operations of a web development consultancy. He has two small children and occasionally produces fine art. All views expressed are, of course, the author’s own.",
     "url":"http://alistapart.com/author/lylemullican",
+    "team":false,
     "contacts":{
       "Сaйт":{
         "title":"http://www.lylemullican.com/",
@@ -25,6 +50,7 @@
     "name":"Tim Wright",
     "about":"Tim Wright is the senior user experience designer and developer at Fresh Tilled Soil, a UX design agency out of Boston. He is a frequent speaker, blogger, and writer, and a published author. He also recently wrote a book, Learning JavaScript—A Hands-On Guide to the Fundamentals of Modern JavaScript.",
     "url":"http://www.csskarma.com/",
+    "team":false,
     "contacts":{
       "Сaйт":{
         "title":"http://www.csskarma.com/",
@@ -41,6 +67,7 @@
     "name":"Harry Roberts",
     "about":"Hi there, I’m Harry. I am a 22 year old designer, developer, writer and speaker from the UK; I work as a Senior UI Developer for BSkyB. I write, tweet, speak and share code about authoring and scaling CSS for big websites.",
     "url":"http://csswizardry.com/about/",
+    "team":false,
     "contacts":{
       "Сaйт":{
         "title":"http://csswizardry.com/",
@@ -61,6 +88,7 @@
     "name":"Vlad Andersen",
     "about":"",
     "url":"https://twitter.com/mustangostang",
+    "team":true,
     "contacts":{
       "LiveJournal":{
         "title":"http://mustangostang.livejournal.com/",
@@ -85,6 +113,7 @@
     "name":"Владимир Старков",
     "about":"Меня зовут Владимир Старков. Я стараюсь cделать мир лучше. Мне можно написать в твиттер или прямо на почту",
     "url":"http://vstarkov.ru/about/",
+    "team":true,
     "contacts":{
       "Сaйт":{
         "title":"http://vstarkov.ru/",
@@ -109,6 +138,7 @@
     "name":"Наталья Луканюк",
     "about":"",
     "url":"http://flamecoder.net/",
+    "team":true,
     "contacts":{
       "Сaйт":{
         "title":"http://flamecoder.net/",
@@ -128,11 +158,33 @@
       }
     }
   },
+  "smolnikov":{
+    "img":"https://secure.gravatar.com/avatar/6dc32b56e7d42eaba032935459a0e863?s=160",
+    "name":"Сергей Смольников",
+    "about":"",
+    "url":"https://github.com/smolnikov",
+    "team":true,
+    "contacts":{
+      "Мой Круг":{
+        "title":"http://sergey-smolnikov.moikrug.ru/",
+        "url":"http://sergey-smolnikov.moikrug.ru/"
+      },
+      "LiveJournal":{
+        "title":"smolnikov",
+        "url":"http://www.livejournal.com/userinfo.bml?user=smolnikov"
+      },
+      "GitHub":{
+        "title":"smolnikov",
+        "url":"https://github.com/smolnikov"
+      }
+    }
+  },
   "silentimp":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
     "name":"Антон Немцев",
     "about":"",
     "url":"https://twitter.com/silentimp",
+    "team":true,
     "contacts":{
       "Сaйт":{
         "title":"http://frontender.info/",
