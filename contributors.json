@@ -165,18 +165,7 @@
     "url":"https://github.com/smolnikov",
     "team":true,
     "contacts":{
-      "МойКруг":{
-        "title":"http://sergey-smolnikov.moikrug.ru/",
-        "url":"http://sergey-smolnikov.moikrug.ru/"
-      },
-      "Twitter":{
-        "title":"smolnikov",
-        "url":"http://twitter.com/smolnikov"
-      },
-      "GitHub":{
-        "title":"smolnikov",
-        "url":"https://github.com/smolnikov"
-      }
+
     }
   },
   "silentimp":{
