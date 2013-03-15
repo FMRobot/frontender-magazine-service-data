@@ -158,7 +158,27 @@
       }
     }
   },
-
+  "smolnikov":{
+    "img":"https://secure.gravatar.com/avatar/6dc32b56e7d42eaba032935459a0e863?s=160",
+    "name":"Сергей Смольников",
+    "about":"",
+    "url":"https://github.com/smolnikov",
+    "team":true,
+    "contacts":{
+      "Мой Круг":{
+        "title":"http://sergey-smolnikov.moikrug.ru/",
+        "url":"http://sergey-smolnikov.moikrug.ru/"
+      },
+      "Twitter":{
+        "title":"@smolnikov",
+        "url":"https://twitter.com/smolnikov"
+      },
+      "GitHub":{
+        "title":"smolnikov",
+        "url":"https://github.com/smolnikov"
+      }
+    }
+  },
   "silentimp":{
     "img":"https://secure.gravatar.com/avatar/2f406e60add078a139c8cec4154b553f?s=160",
     "name":"Антон Немцев",
