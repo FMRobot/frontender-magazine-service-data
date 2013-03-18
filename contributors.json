@@ -1,4 +1,33 @@
 {
+  "thebabydino":{
+    "img":"http://d13pix9kaak6wt.cloudfront.net/avatar/thebabydino_1337828501_18.jpg",
+    "name":"Ana Tudor",
+    "about":"Loves maths, especially geometry. Enjoys playing with code. Passionate about experimenting & learning new things. Fascinated by astrophysics and science in general. Huge fan of technological advance & its applications in all fields. Shows an interest in motor sports, drawing, classic cartoons, rock music, cuddling toys and animals with sharp claws & big teeth. Dreams about owning a real tiger one day.",
+    "url":"http://about.me/thebabydino",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://about.me/thebabydino",
+        "url":"http://about.me/thebabydino"
+      },
+      "Twitter":{
+        "title":"@thebabydino",
+        "url":"http://twitter.com/thebabydino"
+      },
+      "Dabblet":{
+        "title":"thebabydino",
+        "url":"http://dabblet.com/user/thebabydino"
+      },
+      "Codepen.io":{
+        "title":"thebabydino",
+        "url":"http://codepen.io/thebabydino"
+      },
+      "Stackoverflow":{
+        "title":"ana",
+        "url":"http://stackoverflow.com/users/1397351/ana"
+      }
+    }
+  },
   "gabrieleromanato":{
     "img":"http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1a3/31c/3063a46.jpg",
     "name":"Gabriele Romanato",
