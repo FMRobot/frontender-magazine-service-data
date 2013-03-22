@@ -1,4 +1,37 @@
 {
+  "bih":{
+    "img":"https://secure.gravatar.com/avatar/87ca46eb56b0101f01ca3f73679a25f9?s=160",
+    "name":"Bilawal Hameed",
+    "about":"At best, I am a passionate builder. I build software, companies, communities, and people. I aim to build world-class products that ooze excellence and perfection by imperfection. I work hard to listen and to innovate. During my career to date, I have built three startups (two acquired, one funded), built circa. 50 projects, received numerous mentions, attended 3 events & 8 hackathons (and won 2) along with a Dev8D Top Developer award.",
+    "url":"http://bilaw.al/",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://bilaw.al/",
+        "url":"http://bilaw.al/"
+      },
+      "Twitter":{
+        "title":"@bilawalhameed",
+        "url":"http://twitter.com/bilawalhameed"
+      },
+      "GitHub":{
+        "title":"bih",
+        "url":"https://github.com/bih"
+      },
+      "Email":{
+        "title":"bilawal@games.com",
+        "url":"mailto:bilawal@games.com"
+      },
+      "Quora":{
+        "title":"Bilawal-Hameed",
+        "url":"http://www.quora.com/Bilawal-Hameed"
+      },
+      "Facebook":{
+        "title":"home.pp",
+        "url":"http://www.facebook.com/home.pp"
+      }
+    }
+  },
   "thebabydino":{
     "img":"http://d13pix9kaak6wt.cloudfront.net/avatar/thebabydino_1337828501_18.jpg",
     "name":"Ana Tudor",
@@ -184,6 +217,35 @@
       "GitHub":{
         "title":"NatalieF",
         "url":"https://github.com/NatalieF"
+      }
+    }
+  },
+  "rodweb":{
+    "img":"https://secure.gravatar.com/avatar/aa11707145d262cd5c8455789410501a?s=160",
+    "name":"Игорь Дерябин",
+    "about":"Меня зовут Игорь, я занимаюсь веб-разработкой с 2008 года. Я не стою на месте, постоянно развиваю свои навыки и совершенствуюсь, слежу за новыми веяниями в своей сфере. Я считаю, что «лучший дизайн — это дизайн, который не видно», люблю минималистичность и простоту. Специализируюсь прежде всего на front-end разработке — верстка, пользовательские интерфейсы, клиентские скрипты и веб-приложения. Также занимаюсь разработкой сайтов под ключ на PHP. Помимо этого я увлекаюсь английским языком, подрабатываю переводчиком, а также участвую в краудсорсинг-проектах по локализации. Принимал участие в локализации Twitter, Gaia (Firefox OS), а также перевел несколько приложений для Android.",
+    "url":"http://rodweb.ru/",
+    "team":true,
+    "contacts":{
+      "GitHub":{
+        "title":"rodweb",
+        "url":"https://github.com/rodweb"
+      },
+      "Twitter":{
+        "title":"@ru_rodweb",
+        "url":"http://twitter.com/ru_rodweb"
+      },
+      "GitHub":{
+        "title":"smolnikov",
+        "url":"https://github.com/smolnikov"
+      },
+      "LinkedIn":{
+        "title":"rodweb",
+        "url":"http://www.linkedin.com/in/rodweb"
+      },
+      "Free-lancers":{
+        "title":"Rodweb",
+        "url":"http://www.free-lancers.net/users/Rodweb/"
       }
     }
   },
