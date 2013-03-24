@@ -227,6 +227,10 @@
     "url":"http://rodweb.ru/",
     "team":true,
     "contacts":{
+      "Сaйт":{
+        "title":"http://rodweb.ru/",
+        "url":"http://rodweb.ru/"
+      },
       "GitHub":{
         "title":"rodweb",
         "url":"https://github.com/rodweb"
