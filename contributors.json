@@ -1,4 +1,29 @@
 {
+  "elliotjaystocks":{
+    "img":"https://secure.gravatar.com/avatar/f3b4c17a9a4c1689a1c3d4a4b9cbbb0e?s=160",
+    "name":"Elliot Jay Stocks",
+    "about":"Designer, speaker, and author. He is one half of Viewport Industries and the founder of typography magazine 8 Faces.",
+    "url":"http://elliotjaystocks.com/",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://elliotjaystocks.com/",
+        "url":"http://elliotjaystocks.com/"
+      },
+      "Twitter":{
+        "title":"@elliotjaystocks",
+        "url":"http://twitter.com/elliotjaystocks"
+      },
+      "GitHub":{
+        "title":"elliotjaystocks",
+        "url":"https://github.com/elliotjaystocks"
+      },
+      "Email":{
+        "title":"elliot@elliotjaystocks.com",
+        "url":"mailto:elliot@elliotjaystocks.com"
+      }
+    }
+  },
   "bih":{
     "img":"https://secure.gravatar.com/avatar/87ca46eb56b0101f01ca3f73679a25f9?s=160",
     "name":"Bilawal Hameed",
