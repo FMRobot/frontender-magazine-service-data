@@ -1,4 +1,33 @@
 {
+  "leaverou":{
+    "img":"https://secure.gravatar.com/avatar/3869e93ce6b2a22e37cf13281d9e6f75?s=160",
+    "name":"Lea Verou",
+    "about":"",
+    "url":"http://lea.verou.me",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://lea.verou.me",
+        "url":"http://lea.verou.me"
+      },
+      "Twitter":{
+        "title":"@leaverou",
+        "url":"http://twitter.com/leaverou"
+      },
+      "GitHub":{
+        "title":"LeaVerou",
+        "url":"https://github.com/LeaVerou"
+      },
+      "Facebook":{
+        "title":"leaverou",
+        "url":"http://www.facebook.com/leaverou"
+      },
+      "LinkedIn":{
+        "title":"leaverou",
+        "url":"http://www.linkedin.com/in/leaverou"
+      }
+    }
+  },
   "elliotjaystocks":{
     "img":"https://secure.gravatar.com/avatar/f3b4c17a9a4c1689a1c3d4a4b9cbbb0e?s=160",
     "name":"Elliot Jay Stocks",
