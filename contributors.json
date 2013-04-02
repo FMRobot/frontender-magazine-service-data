@@ -1,4 +1,25 @@
 {
+  "briansuda":{
+    "img":"https://secure.gravatar.com/avatar/47670f6479d568975c906a0dc49df6ec?s=160",
+    "name":"Brian Suda",
+    "about":"Brian Suda is an informatician residing in Reykjavík, Iceland. He’s written a book on the topic of charts and graphs entitled Designing with Data. His own little patch of internet is at suda.co.uk where many past projects and crazy ideas can be found.",
+    "url":"http://suda.co.uk/",
+    "team":false,
+    "contacts":{
+      "Сaйт":{
+        "title":"http://suda.co.uk/",
+        "url":"http://suda.co.uk/"
+      },
+      "Twitter":{
+        "title":"@briansuda",
+        "url":"http://twitter.com/briansuda"
+      },
+      "GitHub":{
+        "title":"briansuda",
+        "url":"https://github.com/briansuda"
+      }
+    }
+  },
   "leaverou":{
     "img":"https://secure.gravatar.com/avatar/3869e93ce6b2a22e37cf13281d9e6f75?s=160",
     "name":"Lea Verou",
