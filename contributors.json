@@ -1,4 +1,29 @@
 {
+  "dudleystorey":{
+    "img":"http://demosthenes.info/assets/images/users/dudley-storey.jpg",
+    "name":"Dudley Storey",
+    "about":"Web development instructor, designer & writer; author of Pro CSS3 Animation (Apress, 2013)",
+    "url":"http://twitter.com/dudleystorey",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@dudleystorey",
+        "url":"http://twitter.com/dudleystorey"
+      },
+      "Facebook":{
+        "title":"dudley.storey",
+        "url":"http://www.facebook.com/dudley.storey"
+      },
+      "Сaйт":{
+        "title":"http://demosthenes.info",
+        "url":"http://demosthenes.info"
+      },
+      "LinkedIn":{
+        "title":"dudley-storey",
+        "url":"ca.linkedin.com/pub/dudley-storey/32/600/a5b"
+      }
+    }
+  },
   "briansuda":{
     "img":"https://secure.gravatar.com/avatar/47670f6479d568975c906a0dc49df6ec?s=160",
     "name":"Brian Suda",
