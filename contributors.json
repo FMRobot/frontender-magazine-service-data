@@ -1,4 +1,29 @@
 {
+  "hirokitakeuchi":{
+    "img":"https://secure.gravatar.com/avatar/179ae6a4d28bea33c313e85e0bcdffff?s=160",
+    "name":"Dudley Storey",
+    "about":"Before founding GoCardless, Hiroki worked closely with Global Financial Institutions at McKinsey & Company. Hiroki studied Mathematics at Oxford University, and has interned at J.P. Morgan and Auctomatic.",
+    "url":"http://github.com/hirokitakeuchi",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@hirokitakeuchi",
+        "url":"http://twitter.com/hirokitakeuchi"
+      },
+      "GitHub":{
+        "title":"hirokitakeuchi",
+        "url":"http://github.com/hirokitakeuchi"
+      },
+      "Сaйт":{
+        "title":"http://gocardless.com/",
+        "url":"http://gocardless.com/"
+      },
+      "Email":{
+        "title":"hiroki@gocardless.com",
+        "url":"mailto:hiroki@gocardless.com"
+      }
+    }
+  },
   "dudleystorey":{
     "img":"http://frontender.info/img/avatar/dudleystorey.png",
     "name":"Dudley Storey",
@@ -15,8 +40,8 @@
         "url":"http://www.facebook.com/dudley.storey"
       },
       "Сaйт":{
-        "title":"http://demosthenes.info",
-        "url":"http://demosthenes.info"
+        "title":"http://demosthenes.info/",
+        "url":"http://demosthenes.info/"
       },
       "LinkedIn":{
         "title":"dudley-storey",
