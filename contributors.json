@@ -1,4 +1,21 @@
 {
+  "markodugonjic":{
+    "img":"http://1.gravatar.com/avatar/10a4285792e47c507ab4782b6716c0d1?s=160",
+    "name":"Marko Dugonjić",
+    "about":"Marko Dugonjić is a designer, speaker and web enthusiast running a nano-scale web design studio Creative Nights in Velika Gorica, Croatia. The domain name is after his nick Maratz.",
+    "url":"http://www.maratz.com/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@markodugonjic",
+        "url":"http://twitter.com/markodugonjic"
+      },
+      "Сaйт":{
+        "title":"http://www.maratz.com/",
+        "url":"http://www.maratz.com/"
+      }
+    }
+  },
   "hirokitakeuchi":{
     "img":"https://secure.gravatar.com/avatar/179ae6a4d28bea33c313e85e0bcdffff?s=160",
     "name":"Hiroki Takeuchi",
