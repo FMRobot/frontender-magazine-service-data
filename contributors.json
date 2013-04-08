@@ -1,4 +1,21 @@
 {
+  "russmaxdesign":{
+    "img":"http://frontender.info/img/avatar/russweakley.jpg",
+    "name":"Russ Weakley",
+    "about":"Russ has worked in the graphic design arena for over 20 years, with a major portion of that time spent specialising in web development and design.",
+    "url":"http://www.maxdesign.com.au/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@russmaxdesign",
+        "url":"http://twitter.com/russmaxdesign"
+      },
+      "Сaйт":{
+        "title":"http://www.maxdesign.com.au/",
+        "url":"http://www.maxdesign.com.au/"
+      }
+    }
+  },
   "markodugonjic":{
     "img":"http://1.gravatar.com/avatar/10a4285792e47c507ab4782b6716c0d1?s=160",
     "name":"Marko Dugonjić",
