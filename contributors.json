@@ -1,4 +1,29 @@
 {
+  "chriscoyier":{
+    "img":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=160",
+    "name":"Chris Coyier",
+    "about":"",
+    "url":"http://chriscoyier.net/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@chriscoyier",
+        "url":"http://twitter.com/chriscoyier"
+      },
+      "GitHub":{
+        "title":"chriscoyier",
+        "url":"http://github.com/chriscoyier"
+      },
+      "Сaйт":{
+        "title":"http://chriscoyier.net/",
+        "url":"http://chriscoyier.net/"
+      },
+      "Email":{
+        "title":"chriscoyier@gmail.com",
+        "url":"mailto:chriscoyier@gmail.com"
+      }
+    }
+  },
   "russmaxdesign":{
     "img":"http://frontender.info/img/avatar/russweakley.jpg",
     "name":"Russ Weakley",
