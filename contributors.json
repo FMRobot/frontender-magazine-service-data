@@ -1,4 +1,29 @@
 {
+  "stevenbradley":{
+    "img":"https://secure.gravatar.com/avatar/30c55bd7da66554bd001d36ab241b324?s=160",
+    "name":"Steven Bradley",
+    "about":"Web designer, WordPress developer, blogger and forum owner.",
+    "url":"http://www.vanseodesign.com/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@vangogh",
+        "url":"http://twitter.com/vangogh"
+      },
+      "GitHub":{
+        "title":"stevenbradley",
+        "url":"http://github.com/stevenbradley"
+      },
+      "Сaйт":{
+        "title":"http://www.vanseodesign.com/",
+        "url":"http://www.vanseodesign.com/"
+      },
+      "LinkedIn":{
+        "title":"vangogh",
+        "url":"http://www.linkedin.com/in/vangogh"
+      }
+    }
+  },
   "chriscoyier":{
     "img":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=160",
     "name":"Chris Coyier",
@@ -104,7 +129,7 @@
       },
       "LinkedIn":{
         "title":"dudley-storey",
-        "url":"ca.linkedin.com/pub/dudley-storey/32/600/a5b"
+        "url":"http://www.linkedin.com/pub/dudley-storey/32/600/a5b"
       }
     }
   },
