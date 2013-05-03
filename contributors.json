@@ -1,4 +1,29 @@
 {
+  "wd45":{
+    "img":"https://si0.twimg.com/profile_images/3214196606/b7dd6f06c4f3f6749d5df96519956ac2.png",
+    "name":"Clinton Forry",
+    "about":"Clinton Forry is a senior content strategist at Ameriprise Financial. He writes about content on his Content-ment blog. He’s on Twitter as @wd45. When he’s not thinking about content, he’s probably thinking about vinyl LP jazz records. And he fancies wearing ties with his paisley and floral print shirts.",
+    "url":"http://www.content-ment.com/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@wd45",
+        "url":"http://twitter.com/wd45"
+      },
+      "Google Plus":{
+        "title":"Clinton Forry",
+        "url":"https://plus.google.com/u/0/105956497520750852516/posts"
+      },
+      "Сaйт":{
+        "title":"http://www.content-ment.com/",
+        "url":"http://www.content-ment.com/"
+      },
+      "LinkedIn":{
+        "title":"clintonforry",
+        "url":"http://www.linkedin.com/in/clintonforry"
+      }
+    }
+  },
   "stevenbradley":{
     "img":"https://secure.gravatar.com/avatar/30c55bd7da66554bd001d36ab241b324?s=160",
     "name":"Steven Bradley",
