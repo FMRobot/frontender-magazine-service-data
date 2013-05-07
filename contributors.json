@@ -1,4 +1,25 @@
 {
+  "cwiiis":{
+    "img":"https://secure.gravatar.com/avatar/1c509df09fc0b1c63500acc279c093dc?s=160",
+    "name":"Chris Lord",
+    "about":"Mozillian and GNOME Foundation member, hacks on Firefox for Android, formerly of Intel and OpenedHand",
+    "url":"http://chrislord.net/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@cwiiis",
+        "url":"http://twitter.com/cwiiis"
+      },
+      "GitHub":{
+        "title":"mainroach",
+        "url":"http://github.com/mainroach"
+      },
+      "Сaйт":{
+        "title":"http://chrislord.net/",
+        "url":"http://chrislord.net/"
+      }
+    }
+  },
   "mainroach":{
     "img":"https://si0.twimg.com/profile_images/1891273469/My_Pics__1_.jpg",
     "name":"Colt McAnlis",
