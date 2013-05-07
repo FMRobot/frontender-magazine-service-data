@@ -1,4 +1,25 @@
 {
+  "kevingoldman":{
+    "img":"https://si0.twimg.com/profile_images/3392209873/9cea1a1d6f9a2cffcf593063fa7992d8.jpeg",
+    "name":"Kevin Goldman",
+    "about":"Kevin Goldman is an industrial designer turned software designer. His software adventure began in the mid ‘90s in Seattle crafting claymation CD-ROMs. He was an indie web and app designer for a long time. Now he’s the founder of 29th Drive, Inkwell, and MoreBlu. These days, he lives in Scottsdale with his wife and two boys.",
+    "url":"http://29thdrive.com/",
+    "team":false,
+    "contacts":{
+      "Twitter":{
+        "title":"@kevingoldman",
+        "url":"http://twitter.com/kevingoldman"
+      },
+      "Сaйт":{
+        "title":"http://29thdrive.com/",
+        "url":"http://29thdrive.com/"
+      },
+      "LinkedIn":{
+        "title":"kevingoldman",
+        "url":"http://www.linkedin.com/in/kevingoldman"
+      }
+    }
+  },
   "cwiiis":{
     "img":"https://secure.gravatar.com/avatar/1c509df09fc0b1c63500acc279c093dc?s=160",
     "name":"Chris Lord",
