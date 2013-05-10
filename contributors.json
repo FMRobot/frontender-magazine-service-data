@@ -42,6 +42,10 @@
       "Сaйт":{
         "title":"http://chrislord.net/",
         "url":"http://chrislord.net/"
+      },
+      "Email":{
+        "title":"chrislord.net@gmail.com",
+        "url":"mailto:chrislord.net@gmail.com"
       }
     }
   },
